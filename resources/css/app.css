@@ -1,0 +1,14 @@
+.label-default {
+  background-color: gray;
+  color: white;
+}
+
+.label-success {
+  background-color: green;
+  color: white;
+}
+
+.label-danger {
+  background-color: red;
+  color: white;
+}
